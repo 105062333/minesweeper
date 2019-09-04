@@ -1,0 +1,210 @@
+# depslib dependency file v1.0
+1356408288 source:c:\users\htchen\desktop\i2p12\term\term_examples\framework\audio.c
+	"audio.h"
+
+1260885116 c:\users\htchen\desktop\i2p12\term\term_examples\framework\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1356460790 source:c:\users\htchen\desktop\i2p12\term\term_examples\framework\console_draw2.c
+	"console_draw2.h"
+
+1356458723 c:\users\htchen\desktop\i2p12\term\term_examples\framework\console_draw2.h
+	<windows.h>
+
+1356460639 source:c:\users\htchen\desktop\i2p12\term\term_examples\framework\framework.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw2.h"
+	"kb_input2.h"
+
+1197486290 c:\users\htchen\desktop\i2p12\term\term_examples\framework\kb_input2.h
+	<windows.h>
+
+1197485698 source:c:\users\htchen\desktop\i2p12\term\term_examples\framework\kb_input2.c
+	"kb_input2.h"
+
+1356408288 source:c:\users\htchen\desktop\i2p12\term\term_examples\framework\codeblocks\audio.c
+	"audio.h"
+
+1260885116 c:\users\htchen\desktop\i2p12\term\term_examples\framework\codeblocks\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1356460790 source:c:\users\htchen\desktop\i2p12\term\term_examples\framework\codeblocks\console_draw2.c
+	"console_draw2.h"
+
+1356460981 c:\users\htchen\desktop\i2p12\term\term_examples\framework\codeblocks\console_draw2.h
+	<windows.h>
+
+1356460639 source:c:\users\htchen\desktop\i2p12\term\term_examples\framework\codeblocks\framework.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw2.h"
+	"kb_input2.h"
+
+1197486290 c:\users\htchen\desktop\i2p12\term\term_examples\framework\codeblocks\kb_input2.h
+	<windows.h>
+
+1197485698 source:c:\users\htchen\desktop\i2p12\term\term_examples\framework\codeblocks\kb_input2.c
+	"kb_input2.h"
+
+1356460792 source:d:\i2p2013\term\term_examples\framework\codeblocks\console_draw2.c
+	"console_draw2.h"
+
+1356460982 d:\i2p2013\term\term_examples\framework\codeblocks\console_draw2.h
+	<windows.h>
+
+1197485698 source:d:\i2p2013\term\term_examples\framework\codeblocks\kb_input2.c
+	"kb_input2.h"
+
+1197486290 d:\i2p2013\term\term_examples\framework\codeblocks\kb_input2.h
+	<windows.h>
+
+1388777028 source:d:\i2p2013\term\term_examples\framework\codeblocks\audio.c
+	"audio.h"
+
+1260885116 d:\i2p2013\term\term_examples\framework\codeblocks\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1388777222 source:d:\i2p2013\term\term_examples\framework\codeblocks\framework.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw2.h"
+	"kb_input2.h"
+
+1388777028 source:d:\i2p2014\term\term_project_toolbox\framework_cb\audio.c
+	"audio.h"
+
+1260885116 d:\i2p2014\term\term_project_toolbox\framework_cb\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1356460792 source:d:\i2p2014\term\term_project_toolbox\framework_cb\console_draw2.c
+	"console_draw2.h"
+
+1356460982 d:\i2p2014\term\term_project_toolbox\framework_cb\console_draw2.h
+	<windows.h>
+
+1388777222 source:d:\i2p2014\term\term_project_toolbox\framework_cb\framework.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw2.h"
+	"kb_input2.h"
+
+1197486290 d:\i2p2014\term\term_project_toolbox\framework_cb\kb_input2.h
+	<windows.h>
+
+1197485698 source:d:\i2p2014\term\term_project_toolbox\framework_cb\kb_input2.c
+	"kb_input2.h"
+
+1419990365 source:d:\i2p2014\term\framework_large\audio.c
+	"audio.h"
+
+1260885116 d:\i2p2014\term\framework_large\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1356460792 source:d:\i2p2014\term\framework_large\console_draw2.c
+	"console_draw2.h"
+
+1419986682 d:\i2p2014\term\framework_large\console_draw2.h
+	<windows.h>
+
+1419988852 source:d:\i2p2014\term\framework_large\kb_input2.c
+	"kb_input2.h"
+
+1197486290 d:\i2p2014\term\framework_large\kb_input2.h
+	<windows.h>
+
+1419990296 source:d:\i2p2014\term\framework_large\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1419989950 d:\i2p2014\term\framework_large\font.h
+
+1419998264 source:d:\i2p2014\term\framework_large\framework.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+	"framework.h"
+
+1420017276 source:d:\i2p2014\term\framework_large\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419998119 d:\i2p2014\term\framework_large\console_draw3.h
+
+1419989929 d:\i2p2014\term\framework_large\image.h
+
+1419990305 source:d:\i2p2014\term\framework_large\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1420006906 d:\i2p2014\term\framework_large\framework.h
+	"font.h"
+
+1420017096 source:d:\i2p2014\term\framework_large\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+	"image.h"
+	"framework.h"
+
